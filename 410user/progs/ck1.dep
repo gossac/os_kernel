@@ -1,0 +1,10 @@
+410user/progs/ck1.o: 410user/progs/ck1.c spec/syscall.h spec/ureg.h \
+ 410user/libsimics/simics.h 410user/inc/stdarg.h
+
+spec/syscall.h:
+
+spec/ureg.h:
+
+410user/libsimics/simics.h:
+
+410user/inc/stdarg.h:

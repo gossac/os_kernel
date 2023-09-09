@@ -1,0 +1,10 @@
+410user/progs/coolness.o: 410user/progs/coolness.c spec/syscall.h \
+ spec/ureg.h 410user/libsimics/simics.h 410user/inc/stdarg.h
+
+spec/syscall.h:
+
+spec/ureg.h:
+
+410user/libsimics/simics.h:
+
+410user/inc/stdarg.h:

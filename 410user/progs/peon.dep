@@ -1,0 +1,17 @@
+410user/progs/peon.o: 410user/progs/peon.c spec/syscall.h spec/ureg.h \
+ 410user/libstdio/stdio.h 410user/inc/stddef.h 410user/inc/types.h \
+ 410user/inc/stdarg.h 410user/libsimics/simics.h
+
+spec/syscall.h:
+
+spec/ureg.h:
+
+410user/libstdio/stdio.h:
+
+410user/inc/stddef.h:
+
+410user/inc/types.h:
+
+410user/inc/stdarg.h:
+
+410user/libsimics/simics.h:

@@ -1,0 +1,1 @@
+kern/executable.o: kern/executable.S

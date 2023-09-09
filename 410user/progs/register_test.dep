@@ -1,0 +1,6 @@
+410user/progs/register_test.o: 410user/progs/register_test.S \
+ 410user/inc/410_tests.h 410user/libsimics/simics.h
+
+410user/inc/410_tests.h:
+
+410user/libsimics/simics.h:

@@ -1,0 +1,43 @@
+kern/syscall_handler.o: kern/syscall_handler.c kern/inc/syscall_handler.h \
+ spec/ureg.h kern/inc/ctrl_blk.h 410kern/inc/stdint.h kern/inc/list.h \
+ 410kern/inc/stddef.h 410kern/inc/types.h 410kern/inc/malloc.h \
+ 410kern/stdlib/stdlib.h 410kern/inc/assert.h kern/inc/vm.h \
+ 410kern/x86/page.h spec/limits.h 410kern/inc/stdbool.h \
+ spec/common_kern.h 410kern/boot/multiboot.h kern/inc/mutex.h \
+ 410kern/x86/cr.h
+
+kern/inc/syscall_handler.h:
+
+spec/ureg.h:
+
+kern/inc/ctrl_blk.h:
+
+410kern/inc/stdint.h:
+
+kern/inc/list.h:
+
+410kern/inc/stddef.h:
+
+410kern/inc/types.h:
+
+410kern/inc/malloc.h:
+
+410kern/stdlib/stdlib.h:
+
+410kern/inc/assert.h:
+
+kern/inc/vm.h:
+
+410kern/x86/page.h:
+
+spec/limits.h:
+
+410kern/inc/stdbool.h:
+
+spec/common_kern.h:
+
+410kern/boot/multiboot.h:
+
+kern/inc/mutex.h:
+
+410kern/x86/cr.h:

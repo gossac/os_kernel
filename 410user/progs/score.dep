@@ -1,0 +1,27 @@
+410user/progs/score.o: 410user/progs/score.c 410user/inc/stdbool.h \
+ 410user/libstdlib/stdlib.h 410user/inc/stddef.h 410user/inc/types.h \
+ 410user/inc/malloc.h 410user/libstdio/stdio.h 410user/inc/stdarg.h \
+ spec/syscall.h spec/ureg.h 410user/libsimics/simics.h \
+ 410user/libstring/string.h
+
+410user/inc/stdbool.h:
+
+410user/libstdlib/stdlib.h:
+
+410user/inc/stddef.h:
+
+410user/inc/types.h:
+
+410user/inc/malloc.h:
+
+410user/libstdio/stdio.h:
+
+410user/inc/stdarg.h:
+
+spec/syscall.h:
+
+spec/ureg.h:
+
+410user/libsimics/simics.h:
+
+410user/libstring/string.h:

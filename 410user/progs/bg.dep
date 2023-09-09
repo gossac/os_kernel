@@ -1,0 +1,17 @@
+410user/progs/bg.o: 410user/progs/bg.c spec/syscall.h spec/ureg.h \
+ 410user/libstdio/stdio.h 410user/inc/stddef.h 410user/inc/types.h \
+ 410user/inc/stdarg.h 410user/inc/assert.h
+
+spec/syscall.h:
+
+spec/ureg.h:
+
+410user/libstdio/stdio.h:
+
+410user/inc/stddef.h:
+
+410user/inc/types.h:
+
+410user/inc/stdarg.h:
+
+410user/inc/assert.h:
